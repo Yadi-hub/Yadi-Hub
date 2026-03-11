@@ -44,8 +44,12 @@ I’m a **Computer Science Explorer** and **Full-Stack Developer** passionate ab
 
 ## 🔹 Stats & GitHub Activity
 
-![Shmelis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yadi-Hub&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadi-Hub&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yadi-hub&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yadi-hub&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadi-hub&layout=compact&theme=radical&hide_border=true&count_private=true)
+
 
 ---
 
